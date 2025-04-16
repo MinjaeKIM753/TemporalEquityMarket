@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE/Editor specific
+.vscode/
+.idea/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Large Data Files & Outputs
+Macro/Events/*.pkl
+Macro/Events/*.jsonl
+Macro/Events/*.jsonl.bak
+Macro/Events/BatchAggreg_backup.jsonl
+Macro/Events/Processed_files/
+Macro/Events/Saves/
+Policy/datasets/*.xlsx
+Policy/datasets/*.xls
+Policy/datasets/*.csv
+
+# Sensitive Files
+Macro/Events/api_key.txt
+
+# Visualization Folders (Optional - uncomment if you don't want to track images)
+# Basics/Visualizations/
+# EDA/Visualizations/
+# Macro/Events/Visualizations/
+# Policy/Visualizations/ 
