@@ -25,8 +25,8 @@ Policy/datasets/*.csv
 # Sensitive Files
 Macro/Events/api_key.txt
 
-# Visualization Folders (Optional - uncomment if you don't want to track images)
-# Basics/Visualizations/
-# EDA/Visualizations/
-# Macro/Events/Visualizations/
-# Policy/Visualizations/ 
+# Visualization Folders
+Basics/Visualizations/
+EDA/Visualizations/
+Macro/Events/Visualizations/
+Policy/Visualizations/ 
